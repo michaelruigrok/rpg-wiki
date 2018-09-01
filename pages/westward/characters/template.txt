@@ -1,0 +1,21 @@
+====== Character Template ====== 
+This template is automatically added when creating a new page. Delete this first section.
+====== @!!PAGE@ ======
+<WRAP right 30%>
+^ @!!PAGE@ ^^
+| Race |  |
+| Gender |  |
+| Alignment |  |
+| Age |  |
+| Height |  |
+| Weight |  |
+| Town | [[westward:locations:Barreyon]] |
+| Hometown | |
+| Profession |  |
+| Primary Goal |  |
+</WRAP>
+===== Personality =====
+
+===== Appearance =====
+
+===== Before the Guild =====

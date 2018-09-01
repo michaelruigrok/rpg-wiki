@@ -1,0 +1,17 @@
+====== CoOM World and Regions ======
+The world of //The Crusade of Order's Might// is designed to be culturally diverse, influenced by regional boundaries. Each region is etymologically distinct.
+
+The word used to describe the continent varies between different regions, with some forgoing a specific word used to distinguish the actual continent from the generic concept of one.
+
+==== Coastal Regions ====
+Coastal regions vary from spirited and obstinate to placid and unambitious
+  * Names derived from Spanish/Portuguese, while the more calmer regions may have names with French undertones
+  * Continent is referred to as //Estierra//
+
+==== Desert Regions ====
+Desert and arid areas are few and far between, but have a very strong and self aware cultural understanding
+  * Location names are incredibly literal
+  * Inhabitants have strong Australian accents
+
+==== Notable Towns ====
+So far only one town has been extensively explored, [[coom:towns:gargreen|Gargreen]]

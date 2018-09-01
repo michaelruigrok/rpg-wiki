@@ -1,0 +1,53 @@
+====== Barreyon ======
+
+Barreyon is the west-most town in the //Westward// campaign.
+
+Its only neighbour is [[Wesbond]], to the east. The closest location of interest to the west is the [[near woods]].
+
+
+===== Geography and Points of Interest =====
+
+Barreyon has a lake to the north.
+
+Leading out from Barreyon is a thin backwood, which extends into a fully fledged forest. The forest only contains regular woodland creatures. While some venture into this forest, nobody in recent memory has travelled past the ravine that limits access to the west.
+
+==== Temple ====
+The [[Barreyon Temple]] is the primary repository of books, although its library is minimal. Priests have knowledge of magic items and herbs, and have some capacity for potionmaking. I has shrines for several gods. However, the shrine to [[pfw>Cayden Cailean]] is in //[[The Crooked Eagle]]//. The temple has had rowdy patrons in the past, and after a few situations it was moved.
+
+===== Inhabitants =====
+  * [[westward:characters:Galus]], Owner of //[[The Crooked Eagle]]//
+  * [[westward:characters:Mildred]], Barkeep at //[[The Crooked Eagle]]//
+  * [[westward:characters:Nathan]], Mildred's Understudy
+  * [[westward:characters:Layton Cailean]], priest at the local temple.
+  * [[westward:characters:Dawson]], Owner of general store
+  * [[westward:characters:Thurem]], town blacksmith
+    * Half Orc with a deep, bellowing laugh
+  * [[westward:characters:Mavis]], runs the post office
+    * A wiry old woman with big glasses and a wispy voice
+    * Her glasses were a gift from a rich dude or something from some city somewhere.
+  * [[westward:characters:Flavius]], Expert Potato farmer
+    * makes pathetically awful jokes
+  * [[westward:characters:Brianna]], a mysterious curly-haired halfling who used to work as an Engineer at the Carvehook Mines
+
+==== Members of the Adventurer's Guild ====
+{{page>westward:barreyon_adventurer_s_guild#Members&noheader}}
+
+
+===== Trade and Merchantry ======
+The Merchant's collective is the closest thing Barreyon has to an organisational structure. The collective is made up of individual merchants and groups alike. These groups will often pool their money and redistribute regularly based on work put in, to ensure the merchants can consistently support themselves as business waxes and wanes.
+
+The majority of trade between Barreyon and Wesbond focuses on crop produce. Since the seasonality of produce between the two settlements compliment each other, half the year is spent importing goods from Wesbond, while the other half is spent exporting them out again.
+
+Other specialist salespeople also need to import their goods from Wesbond, often when the goods require a large team of people to build. Goods that require rare materials to create are often imported, however in some cases their ingredients/components are imported instead.
+
+While merchants that focus on a single good are common, it is also common to deal in several areas at once.
+
+Later on, once the treasures brought in by the guild become more sought after, merchants specialising in rare items may visit the town. An example of this is [[westward:characters:Clarissa]], a dark-skinned human with a pet snake. These merchants often have well-built connections with Wesbond's upper class, holding social gatherings to show of their wares (like a medieval Tupperware party).
+
+Usually, merchants strive to control their flow of goods; that the resources and time spent travelling between the two villages is minimal for their work output. To ensure this, merchants will change the frequency of their trips to ensure that each trip contains a full load.
+
+In other cases, especially where merchants deal in many areas or unusual goods, merchants focus on managing a complex web of suppliers and buyers. A strong example of this is [[westbond:characters:Samuel]], a merchant for Barreyon's general store. As the store receives requests, Samuel needs to locate and keep track of suppliers for a wide variety of goods.  
+
+A Merchant's house sits to the east of the village; a large building fragmented into small rooms, and a large loading area, for merchants to temporarily house their goods. A few guardsmen are hired by the merchant's collective keep watch over the wares, being some of the very few traditionally trained swordsmen in Barreyon.
+
+The players may wish to set up trade arrangements and routes between Barreyon and settlements in The West. This will require building infrastructure designed to enable this kind of behaviour, and will require new professions be met within Barreyon to support it. An explosion of trade has the capacity for Barreyon to grow as a town very quickly, establishing it as a wealthy trade hub between The East and The West.

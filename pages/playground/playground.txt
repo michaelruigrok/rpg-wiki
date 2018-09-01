@@ -1,0 +1,3 @@
+This is the playground, designed to test out elements and functionality of dokuwiki in a safe environment, away from breaking anything else. 
+
+You can edit it as you wish.

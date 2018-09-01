@@ -1,0 +1,22 @@
+====== Korlan Ferreira ======
+<WRAP right>
+^ Korlan Ferreira ^^
+| Race | Halfling |
+| Gender | Male |
+| Alignment |  |
+| Age |  |
+| Height |  |
+| Weight |  |
+| Town | [[westward:locations:Barreyon]] |
+| Hometown | |
+| Primary Goal |  |
+</WRAP>
+===== Personality =====
+
+===== Appearance =====
+Korlan holds a shortsword with three notches in the blade, mimicking the holy weapon of [[pfw>Chaldira]].
+
+===== Before the Guild =====
+Korlan hails from the far east, on the border of a nation where Halfling slavery is considered the norm.
+
+

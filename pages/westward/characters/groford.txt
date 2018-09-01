@@ -1,0 +1,24 @@
+====== Groford ======
+<WRAP right 30%>
+^ Groford of Blankrock ^^
+| Race | Dwarf |
+| Gender | Male |
+| Alignment | LG |
+| Age | 64 |
+| Town | [[westward:locations:Barreyon]] |
+| Primary Goal | Recover the Helm of Aasitan-Keth |
+| Secondary Goal | Be the best of all paladins | 
+</WRAP>
+
+==== Old Party ====
+
+Prior to joining the [[westward:Barreyon Adventurer's Guild]], Groford was a member a small adventuring party in favour of the Dwarven god [[pfw>Angradd]]. They were on a quest in search of the Helm of Aasitan-Keth.
+
+  * Beetheus - Leader of the group. Wields //The Greataxe of Superior Power compared to Other Greataxes//.
+  * Markus. He wields a non-golden greataxe. He hopes that he can show is greater devotion to Angradd and gains his favour before the group reaches The Helm.
+  * Collinds. He wields a Halberd. Despite it not being.
+
+THe Helm of Angradd was not actually gifted from Angradd. Instead, it was from a calm, caring god (TBD). As Aasitan strayed away from the helm's morals, it eventually 
+
+==== Personality ====
+He has an uncontrollable urge to beat evil, and champion good. He is overly enthusiastic. He is always looing to improve himself, which is why he follows [[pfw>Irori]]

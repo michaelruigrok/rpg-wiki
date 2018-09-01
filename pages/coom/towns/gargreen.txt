@@ -1,0 +1,52 @@
+====== Gargreen ======
+
+<WRAP right 25%>
+^ Gargreen ^^
+| Mayor | [[coom:npcs:adela_eoforwine|Adela Eoforwine]] |
+| Primary Race | Human |
+</WRAP>
+
+  * Lush fields cradled by a small craggy ridge
+  * Distant and isolated from other towns
+    * One road in and out of the town; a long and dangerous trip
+    * Relies on seasonal merchant wagon trails for transport in and out
+  * Ridge around city is observed and maintained by the village guard
+    * Thus, areas of concern are well known
+
+===== Geography and Points of Interest =====
+Gargreen is split into vague sections defined from the town's expansion and evolution. Older establishments essential to a young town sit to the south (containing old merchant housing, poorer dense housing, and pioneer farmland), and newer, auxillary buildings to the north.
+
+==== Southern Gargreen ====
+The southeast has a very long history, and many of the outskirting farms are still held by their original families, but housing closer to the centre has shifted over the years and is currently seen as the poorer part of town. 
+  * Older/essential establishments sit South in the town
+    * Old Town Square
+    * Blacksmith
+
+==== Central Gargreen ====
+  * Buildings resulting from expansion are central
+    * New Town Square
+    * Post Office
+
+==== Northern Gargreen ====
+  * Lesser churches
+  * Post office
+  * Tanner’s Pub
+  * Magic shop owned by Sorceress Violet Realmbark
+
+
+=== General Store ===
+  * Run by unskilled Half-Orc, Reko Auterosk
+  * Shop owner is stuck in an amnesia spell/curse, who keeps thinking it’s the same day over and over, Thus thinking that it's Reko's first day 
+
+=== Gargreen University ===
+Gargreen's university is a relatively large building dedicated to the research and education of intellectual fields.
+
+===== Inhabitants =====
+  * [[coom:npcs:Adela Eoforwine]], Town Mayor
+  * [[npcs:Lavonne Harkley]], Head Field Officer of the Town Guard
+  * [[npcs:Tanner]], Owner of Tanner's Pub
+  * [[npcs:Violet Realmbark]], Owner of the North Magic Shop
+  * [[npcs:Reko Auterosk]], Shopkeeper
+  * [[npcs:Hector Smith]], Chief Blacksmith
+  * [[npcs:Frederick]], Blacksmith Apprentice
+  * [[npcs:Matilda Greene]]

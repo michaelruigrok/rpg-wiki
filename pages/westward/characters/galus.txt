@@ -1,0 +1,22 @@
+====== Galus ======
+<WRAP right 30%>
+^ Galus ^^
+| Race | Mer |
+| Gender | Male |
+| Alignment | Lawful Good |
+| Age | 124 |
+| Height | 106cm |
+| Weight |  |
+| Town | [[westward:locations:Barreyon]] |
+| Hometown |  |
+| Profession | Owner of //The Crooked Eagle// |
+| Primary Goal | Have a legacy in the kinship and virtue of the new guild |
+</WRAP>
+===== Personality =====
+Galus is cheery and mild-mannered.
+
+===== Appearance =====
+Galus is incredibly short for a Mer, and is easily mistaken for a Halfling.
+
+===== Before the Guild =====
+Galus has a long history in the community of Barreyon, and was present in the final years of the original guild. 

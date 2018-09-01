@@ -1,0 +1,17 @@
+====== Running an Adventure ======
+
+===== Introducing narrative hooks =====
+==== Starting Environments ====
+  * Players can generate a sensible reason why a party would assemble according to their backstories
+  * Have an adventurers guild that the adventurers are all part of
+  * Have a town event or similar to which they take part in
+    * Tournaments
+    * Festivals
+  * Stuck in a isolated location, like in transport. Or in gaol!
+
+==== The Catalyst for the Adventure ====
+  * A planned activity or task goes pear-shaped
+  * A shady character comes into the mix who might be chased for information
+  * Similarly, gossip of a odd or strange occurrence causes unease
+  * A group of miscreants suddenly attack
+  * One character must recruit the rest of the party for a mission they already have

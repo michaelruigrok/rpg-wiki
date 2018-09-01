@@ -1,0 +1,17 @@
+====== NPC Creation ======
+  * For most NPCs, simpler is better.
+  * Name, sex, race, class.
+  * Extra performance traits: 
+     * high/med/low voice, manner of speaking (strict, loose), germanic/latin/french word choice
+
+  * Ideals, desires, fears
+  * Disposition to players
+  * Skills, equipment, mannerisms
+
+
+  * Use NPCs as a viewpoint into the world. Give them opinions about the current events, other characters, and their way of life.
+  * Show the players how they are perceived within the world
+
+===== Resources =====
+  * Keep a basic weapon list on the side for a character
+  * Character lists online, or in books

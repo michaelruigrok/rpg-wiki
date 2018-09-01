@@ -1,0 +1,28 @@
+====== The Crooked Eagle ======
+The Crooked Eagle is the main tavern and town hall of [[Barreyon]].
+
+It is owned by [[westward:characters:Galus]], a cheery, very short mer who could be mistaken for a halfling. His co-workers are Mildred, a barkeep, and Nathan, a bartending understudy.
+
+The bar has a warm atmosphere, helped by the torches that line the walls, and the wooden furniture and structure. Despite this, the roof is rather high.
+
+The back left contains stairs that lead up to the second level, which is in comparison very cramped.
+
+The bar often has a band playing, On a stage on the far end of the hall. 
+ 
+The back right leads into an extended room which protrudes from the rest of the building, where the kitchen is positioned. 
+
+
+===== Menu ======
+  * Roasted Peppers Filled with a Mix of Cheeses: 4sp
+  * Salted Beef & Vegetable Casserole: 4sp
+  * Apple Stuffed Mushrooms: 7cp
+  * Mussel and Mushroom Stew: 5sp
+  * Pickled Beets: 8cp
+  * Smoked Fresh Trout Fillets: 4sp
+  * Invidian (pale) Ale: 5cp
+  * Finnell (pale) Ale: 5cp
+  * Askarus (heavy) Ale: 5cp
+  * Rum: 7cp
+  * Ervanic Lager: 6cp
+  * Dwarven Spirits: 3sp
+  * Quillin Wine: 1gp

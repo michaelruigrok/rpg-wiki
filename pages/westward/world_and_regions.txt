@@ -1,0 +1,39 @@
+====== Westward World and Regions ======
+The adventure of //Westward// begins from the town [[westward:locations:Barreyon]], and continues out west into The West (aptly named, huh?).
+
+Like most //The West Marches// style campaigns, civilisation and the starting adventurer's town are safe, boring places. The furthest east an adventuring party is likely to travel is [[westward:locations:Wesbond]], Barreyon's only neighbouring city. However, the state of The East shapes the adventurer's past -- as well as many of Barreyon's villagers -- and the context they live in.
+
+===== The East =====
+The closest town east is [[westward:locations:Wesbond]] (literally west boundary), a relatively large city. It’s a full day’s travel away, requiring travellers to depart at dawn and arrive at sundown.
+
+In the far east, Halflings are often kept as slaves. This is the environment that [[westward:characters:Korlan Ferreira]] grew up in. In response, Halflings in this region often worship the god [[pfw>Chaldira]] as a symbol of rebellion -- serving as a role model for survival and mental fortitude despite oppression. Heroic tales of her cunning and reckless compassion are prevalent means of escapism among the halfling slaves.
+
+Other locations include:
+  * [[westward:locations:Blankrock]], a Dwarven city built into a canyon.
+  * [[westward:locations:Carvehook Mines]], a mine under and around Blankrock.
+  * [[westward:locations:Vahrenhelm Mines]]
+  * [[westward:locations:The Cliffs of Az]], where (according to legend) [[westward:characters:Aasitan]] cleaved the heads of giants.
+
+===== The Opaque Night =====
+The Opaque Night is a phenomenon in //Westward// where individuals who are out of town at night will disappear without a trace. It is a phenomenon that plagues the whole land, not The East or The West specifically.
+
+This effect is one of the reasons that the world of //Westward// has remained so politically stable. Warring with other nations requires . Instead, any feud between two parts of the country occurs via sanctions and political sabotage.
+
+===== Races & Demographics =====
+
+==== Elves, Mer and Drow ====
+In the Westward universe, Elves no longer exist and are forgotten by almost all of civilisation. Instead, the traditional conception of the 'Half-elf' takes their place, called 'Mer' by the population. 
+
+When Mer interbreed, there’s a 50/50 chance of the child being another Mer, or the other race.
+
+In the early days of the earth, Elves were a prosperous race that lived in hiding and seclusion from the other races. One day, a curse which killed all animal life ravished the forest villages of the Elves. Most did not leave. They believed themselves tied to forest, that leaving would curse them to a half-life of suffering. As such, most died painfully from the disease. However, a young group fled from their home anyway. Outside of the forest, the sunlight tore at the Elves’ skin, and they were forced down underground. Here, the Elves became Drow, losing the once graceful form.
+
+The original race of Elves are remembered by the Drow, but the myth became intertwined with the Aasimar. 
+The Drow still remember when they were once greater beings, and the concept of ‘Elves’. Some tribes of Drow have kept the Aasimar connotation as celestial beings of the light. Others have twisted the association to fit closer to demonic beings, leading them to evil unlike any other group.
+
+The Elven language (still called Elven), lives on, but is a quite unknown, ancient language, even among many Mer.
+
+In //Westward//, any player can still wish to be an Elf. However, they must have travelled into the future from their ancient past, losing all their memories in the process.
+
+==== Orcs ====
+The Orc is a strong and dangerous species which lives separately from the wider world. They are still found in The East, however, since they are only violent towards themselves. They consider other races so inferior that to take one up in battle would be a worthless victory. Attacks or intermingling from rogue orcs do occur very infrequently. However, picking on tiny races is considered a cowardly act and will shun the perpetrator.

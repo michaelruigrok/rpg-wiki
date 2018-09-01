@@ -1,0 +1,14 @@
+====== Guru ======
+<WRAP right 30%>
+^ Guru, Daughter of Ranem ^^
+| Race | Halfling |
+| Gender | Female |
+| Alignment | NG |
+| Age | 16 |
+| Town | [[coom:towns:Gargreen]] |
+| Current Occupation | Town Guard Scout Cadet |
+| Previous Occupations | Running Mother's Farm |
+</WRAP>
+Guru is a strong-willed halfling raised on the south-eastern outskirts of [[coom:towns:gargreen]]. She was taught a variety of skill by her father, [[crusade_of_order_s_might:npcs:Ranem]], from engineering to archery to canopy traversal to survival and first-aid, until he passed away when she was 11. Alone, Guru and her mother struggled to keep the farm running, especially as Guru had become somewhat wayward after the death of her father.
+
+When she was sixteen, she attempted to convince [[crusade_of_order_s_might:npcs:Lavonne Harkley]] to let her go after the dragon Black Fang, who was currently attacking Gargreen. Noting the unfortunate circumstances Guru and her mother had found themselves in, Lavonne offered to hire Guru as a Scout Cadet of the Town Guard.

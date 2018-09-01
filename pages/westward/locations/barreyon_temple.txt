@@ -1,0 +1,55 @@
+====== Barreyon Temple ======
+The temple is the primary repository of books, although its library is minimal. Priests have knowledge of magic items and herbs, and have some capacity for potionmaking. The temple also has a hospital, where they take care of the infirm and sick.
+
+The temple has four major sections:
+  * A meeting courtyard, with benches forming a circle shape
+  * The main hall, with a variety of benches facing a collection of shrines. The major shrines stand in the centre of the front stage, while the minor shrines line the back walls.
+  * The library, housed in a built-on extension to the left, made from the same stone as the rest of the building.
+  * The hospital, housed in a similar extension (except newer and wooden) to the right.
+
+The temple has shrines for the following gods:
+
+===== Major Shrines =====
+  * [[pfw>Erastil]]
+  * [[pfw>Gozreh]]
+
+The major shrines take the form of large abstract sculptures of angled and smooth shapes twisting upwards.
+
+===== Minor Shrines =====
+  * [[pfw>Pharasma]]
+  * [[pfw>Irori]]
+  * [[pfw>Desna]]
+  * [[pfw>Sarenrae]]
+  * [[pfw>Iomedae]]
+
+Minor shrines are small engraved altars along each of the wall, featuring the holy symbol of each god.
+
+The shrine to [[pfw>Cayden Cailean]] is in //[[The Crooked Eagle]]//. The temple has had rowdy patrons in the past, and after a few situations it was moved.
+
+===== Library =====
+
+Many of these books have been collected or adapted from https://www.reddit.com/r/d100/comments/7c4amw/d100_interesting_books/.
+
+| 1 | **Harrifar’s Bestiary**, about fantastic beasts. More fiction than fact. |
+| 2 | **Friar Albert’s Guide to Woodland Beasts**, a bestiary about general woodland creatures. Pretty accurate. |
+| 3 | **Ogre's Guide to tying Knots**, a book about knots so simple an ogre could read it |
+| 4 | **The Trials of Aasitan**: Discusses the good parts about Aasitan, but also the others as well|
+| 5 | **Friar Albert's Guide to Forest Trails** |
+| 6 | **Friar Albert's Guide to Brewing** |
+| 7 | **Friar Albert's Guide to Publishing Law** |
+| 8 | **Friar Albert’s Guide to Overcoming Addiction** |
+| 9 | **Friar Albert's Guide to Fleeing the Academy and Hiding in a Church Cellar** |
+| 10 | **The Faerûn Survival Guide**: A basic collection of knowledge about fae races |
+| 11 | **The Chalice's Faculty**: A theological exploration and guide to using food and drink in the ceremonial worship of gods |
+| 12 | **The Extraplanar **|
+| 13 | **Patterns of Behavior**: an anthology of mood effecting quilt work - a small hardcover picture book of patterns that slightly affect one's mood.  |
+| 14 | **Songs of Courage**: from battle hymns to childhood lullabies.  |
+| 15 | **Income Management and Financial Assessment**: A book containing several long chapters detailing ways to horde, hide, and invest gold. |
+| 16 | **What To Do When You Find Children**: A guidebook to dealing with found children and other such inconveniences in various dangerous situations.  |
+| 17 | **Short But Stout**: A list of recipes and information on Dwarven ale. |
+| 18 | **Coppers For Your Thoughts**: A small book of random musings, quotes, and anecdotes. None are attributed to any authors. |
+| 19 | **There, they're, their, and back again: A halfling's guide to grammar**.  |
+| 20 | **On "The Aleum"**: This book is a modern copy very ancient commentary on an epic poem named The Aleum, which was already very ancient when On "The Aleum" was written. No original copy of The Aleum has been located, therefore On "The Aleum" has fascinated historians.  |
+| 23 | **The Story of Graye**: The story of a slave forced to be a pit-fighter who turned to meditation as an escape from his violent life. This book is not well written, and is probably an earlier work of a novice author that never reached wide spread fame. If the reader continues with it, they will eventually find a peaceful tale with great insights about the human condition, despite its poor writing. |
+| 24 | Several books about farming |
+| 25 | A lot of prayer books, they have their own shelf |

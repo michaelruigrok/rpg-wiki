@@ -1,0 +1,21 @@
+====== Dawson ======
+<WRAP right 30%>
+^ Dawson ^^
+| Race |  |
+| Gender | Male |
+| Alignment |  |
+| Age |  |
+| Height |  |
+| Weight |  |
+| Town | [[westward:locations:Barreyon]] |
+| Hometown | [[westward:locations:Barreyon]] |
+| Profession | General Store Clerk |
+</WRAP>
+
+Dawson owns and runs Barreyon's general store, which looks after the miscellaneous goods that aren't covered by the town's specialist salespeople. This often involves taking special requests from the townsfolk and organising with a merchant to import it from The East. 
+
+Since requesting deliveries is time consuming, he generally stockpiles orders until there is enough of them to take at once. Orders take a minimum of four days: One to prepare for travel,  In cases where an item is needed urgently, he will write up signed trade documents that customers can take to Wesbond in order to get supplies faster.
+===== Personality =====
+
+===== Appearance =====
+

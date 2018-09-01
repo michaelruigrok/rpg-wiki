@@ -1,0 +1,33 @@
+====== Old Material ======
+The following contains a series of excerpts that were used or were going to be used in the game, but no longer are worth keeping in the same notes. This is potentially because they no longer reflect the world as it was going to be.
+
+These excerpts may be descriptions of events or locations that only some characters could see, and would be texted/messaged to an individual in order to inform them so they can tell the other players.
+
+
+===== Filter Artifact in Goblin Dog Cave =====
+The following was a description of an artifact found inside the cave where the first Goblin tribe kept their goblin dogs. Originally, the room was kept behind the small hole that only a halfling could crawl through. However, a halfling was not present when a party first found the cave, so the artifact was simply placed in the main entrance:
+
+>The hole is a tight fit, and your shoulders press quite firmly on the edges the whole way through, but you get used to it and soldier through.
+>
+>On the other side, a cozy, semi-spherical room surrounds you. From the flat wall in front of you, a strange apparatus protrudes from the stone it was carved from.
+>
+>A thick arm of rock holds a reverse pyramid of sorts, with the top dipping in to form a bucket shape. Peeking over, you see a dark grey-brown stone filling the bottom, complete with a little stalagmite. Looking up, you see in response a stalactite hanging down. It sits on the edge of a hole in the roof of the cavern, about 10cm in diameter.
+>
+>On the underside of the rock funnel, you see another stalactite/stalagmite pair, this time a lighter, reddish-brown.
+
+
+===== Wesbond Description =====
+This was an original description of Wesbond's corporate structure for Zaffre's player. The points in this description (particularly the success of the social services) has since been negotiated. The text was also repurposed to construct the [[westward:locations:Wesbond]] page.
+
+> Westbond is a very organised city. Work ethic is a central value of the city - being a worker as part of the city is a great honor and highly valued position, and almost everyone in town works for the city.
+>
+> And this is for great reason. Wesbond relies on the enormous output of its citizens; without the city could never support itself.
+> As part of this communal work, the social services of the town are surprising good. Large scale efforts are attempted to at least give a minimal amount of food to those in need. Despite this, there is a massive imbalance of owned wealth, and living conditions vary widely based on the city
+>
+> Zaffre's position in town is an odd one. Due to the amount of impotent race couples, adoption rates are very high, and the city puts in a lot of work to ensure each orphan is placed in a family, to maintain the values of work in the family unit.
+>
+> However, orphans occasionally reject the family structure, and try and get out on their own. This often means giving up the social services like food, unless they can strike a deal at the depot points
+
+
+===== The Fleckstone Filter =====
+>Fleckstone filters are specific apparatus designed to separate special materials from the rock around them. While they can produce amounts of specialist materials, the small scale required to upkeep them kept them a specialist tool only for individual artisans, rather than use in large-scale mining operations. Except for rare circumstances, the materials produced have an individually important value to the person who created the device. They have more personal utility, than as a commercial endeavour.
