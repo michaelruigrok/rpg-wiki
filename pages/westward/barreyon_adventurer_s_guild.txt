@@ -15,9 +15,14 @@ Party 2:
   * [[westward:characters:Zaffre Avalon]]
 
 A pair of middle-aged halfling guards from Wesbond:
-  * Terrel, with a sharp jawline
-  * Connor, with a round face and button nose
+  * Terrel, with a sharp jawline. The more outward, positive of the two.
+  * Connor, with a round face and button nose. More skeptical, moral bound of the two. High sense of honour.
   * Each are looking for one last shot at adventure before they become too old to do so.
+
+A trio of rowdy, thrill-seeking miners from the Vahrenhelm mines:
+  * Pony, a gnome.
+  * Sniff, a dwarf.
+  * Yard, a half-orc. Wanted to be a wrestler as a child.
 
 Others:
   * [[westward:characters:Princessa]], A decedent from a noble house, on her coming of age pilgrimage. 

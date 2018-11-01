@@ -11,13 +11,16 @@ In the far east, Halflings are often kept as slaves. This is the environment tha
 Other locations include:
   * [[westward:locations:Blankrock]], a Dwarven city built into a canyon.
   * [[westward:locations:Carvehook Mines]], a mine under and around Blankrock.
-  * [[westward:locations:Vahrenhelm Mines]]
+  * [[westward:locations:Vahrenhelm]] and the [[westward:locations:Vahrenhelm Mines]]
+  * [[westward:locations:Lichton]], the town east of Wesbond. Primary exporter of tea.
   * [[westward:locations:The Cliffs of Az]], where (according to legend) [[westward:characters:Aasitan]] cleaved the heads of giants.
 
 ===== The Opaque Night =====
 The Opaque Night is a phenomenon in //Westward// where individuals who are out of town at night will disappear without a trace. It is a phenomenon that plagues the whole land, not The East or The West specifically.
 
-This effect is one of the reasons that the world of //Westward// has remained so politically stable. Warring with other nations requires . Instead, any feud between two parts of the country occurs via sanctions and political sabotage.
+On the edges of town, citizens tend to report feelings of unease, of twisting insides and bad air, and a feeling of dissociation and losing touch with reality. This is not necessarily an effect of the Opaque Night, but the regions in space where it meets unaffected pockets. As such, settlements stop expanding before people start to go missing.
+
+This effect is one of the reasons that the world of //Westward// has remained so politically stable. Warring with other nations requires setting up encampments in the middle of the opaque night, an idiotic endeavour. Instead, any feud between two parts of the country occurs via sanctions and political sabotage.
 
 ===== Races & Demographics =====
 

@@ -18,3 +18,17 @@ The dungeons are also designed to test the moral alignment of the group, to ensu
 
 ==== The First Dungeon ====
 The first dungeon was designed with piquing the interest of the group, to get them invested in the wonders of The West. At this stage, not much of the guild can be tested, especially not the moral compass of the group -- power must be given to the group before their true mettle is revealed. The dungeon offers mysterious treasures, the power of which can only be revealed by continuing their adventure into The West.
+
+The entrance of the dungeon is a small trapdoor, plainly on the ground. It has a golden ring knocker to lift it up by, and is crafted from dark, weathered wood and a solid metal trim around its border. It requires a strength check of 18 to open, with at least two individuals lifting it. Consecutive attempts without changing technique will always fail (unless roll was 2 off last time).
+
+The first room of the dungeon attempts to send a clear message. It is a wide, short corridor with a chest at the end. In between the chest and the players is a small crevasse, about 3.5 metres in length (DC 14). When the chest is opened, a secret door to their right opens up. The chest itself contains a series of treasure, as well as a short sword with an ornate handle.
+
+The next room contains a more direct challenge. An obvious door, magical in nature, stands behind two automaton skeletons, constructed from wood. Both have wooden weapons, one a sizable shield and longsword, which it swings wildly. If the party has trouble with both, one will back off until the other is defeated. Arrows do little against, mostly bouncing off, while cutting hand hitting weapons do well (when they hit perpendicular).
+
+One puzzle in the middle of the dungeon tests the party's knowledge of Barreyon. Knowledge of the Old Guild is necessary for the group to begin their journey. There are three levers, each with an animal pasted above it -- a badger, a wolf, and an eagle. This is possibly a nod to the Skyrim lever-pull puzzle. Pulling the Eagle lever shall open the door, but pulling the other levers shall cause the water level to rise. Levers take a firm pull and a couple of seconds to turn, so one can only just switch the first lever off, and the second lever on, in time. 
+
+This puzzle should hint the players in to the fact that the dungeon has been crafted by the Old Guild. In an adjacent room, a poem sits on the wall, an ode to the Old Guild's centre of operations, //The Crooked Eagle//:
+
+> Poem goes here
+
+The end of the dungeon features a door leading to the rest of the caves. The architecture goes through a distinct change from the smooth, rectangular bricks of the dungeon to the bumpy, round rooms of the natural caves.

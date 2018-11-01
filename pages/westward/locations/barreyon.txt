@@ -2,6 +2,10 @@
 
 Barreyon is the west-most town in the //Westward// campaign.
 
+Barreyon has its roots as an adventuring town, originally founded as an outpost beyond the edges of society.
+
+Since [[westward:The Old Guild]] disbanded, adventuring has fallen to the wayside. Adventuring is still a proud part of the town's identity, and in the current state of the world, living on the border of civilisation is as adventurous as it gets. However, some who have joined the town in the past 100 years look down on this sentiment, coming to the town to escape the business or scandal of their past lives.
+
 Its only neighbour is [[Wesbond]], to the east. The closest location of interest to the west is the [[near woods]].
 
 
