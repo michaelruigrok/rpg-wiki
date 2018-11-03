@@ -29,6 +29,15 @@ One puzzle in the middle of the dungeon tests the party's knowledge of Barreyon.
 
 This puzzle should hint the players in to the fact that the dungeon has been crafted by the Old Guild. In an adjacent room, a poem sits on the wall, an ode to the Old Guild's centre of operations, //The Crooked Eagle//:
 
-> Poem goes here
+> Unturned rare secrets and hidden delights,
+> The deeper you go down the greater their heights,
+> The fruits of such labour are naught without clan,
+> Hearts strong in times dire and minds born to plan,
+> -----
+> A communion of goals reaps unbound success,
+> When those oh so lucky return from their
+> -----
+> The fuel that helps sustain on a quest
+> Are the rest and tales told from the warmth of one's nest.
 
 The end of the dungeon features a door leading to the rest of the caves. The architecture goes through a distinct change from the smooth, rectangular bricks of the dungeon to the bumpy, round rooms of the natural caves.
