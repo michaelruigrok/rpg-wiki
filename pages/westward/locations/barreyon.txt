@@ -18,6 +18,21 @@ Leading out from Barreyon is a thin backwood, which extends into a fully fledged
 ==== Temple ====
 The [[Barreyon Temple]] is the primary repository of books, although its library is minimal. Priests have knowledge of magic items and herbs, and have some capacity for potionmaking. I has shrines for several gods. However, the shrine to [[pfw>Cayden Cailean]] is in //[[The Crooked Eagle]]//. The temple has had rowdy patrons in the past, and after a few situations it was moved.
 
+==== Wrestling Ring ====
+{{ :bradley_the_wrestler.jpg?200| Bradley, a wrestler at the ring}}
+The town wrestling ring is the closest thing to Barreyon has to an attraction pulling in niche wresting fans from around the close regional area.
+
+The ring is owned by [[westward:characters:Tory]], who occasionally commentates or referees.
+
+It contains a slightly inclined floor leading down to the centre, where the ring sits on a raised platform. wooden benches fill the space, but can be moved into storage if the space is needed for other use. 
+
+=== Wrestlers ===
+  * Gorlog Brutefist, a half-orc punching specialist
+    * Has abnormally large hands, a choppy mustache, a shiny bald head, and more than a few missing teeth.
+    * [[westward:characters:Groford]] owes him money
+  * Bradley, quick on his feet and focuses on sweeps 
+    * Dreadlocks, glasses 
+
 ===== Inhabitants =====
   * [[westward:characters:Galus]], Owner of //[[The Crooked Eagle]]//
   * [[westward:characters:Mildred]], Barkeep at //[[The Crooked Eagle]]//

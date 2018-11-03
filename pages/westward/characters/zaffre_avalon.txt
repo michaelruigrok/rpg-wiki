@@ -1,0 +1,26 @@
+====== Zaffre Avalon ======
+<WRAP right 30%>
+^ Zaffre Avalon ^^
+| Race | Mer |
+| Class | Rogue |
+| Gender | M |
+| Age |  |
+| Height |  |
+| Weight |  |
+| Town | [[westward:locations:Barreyon]] |
+| Hometown | [[westward:locations:Wesbond]] |
+| Profession | Performer, Guildmember |
+| Primary Goal |  |
+</WRAP>
+
+Zaffre is a member of the Barreyon Adventurer's guild hailing from Wesbond.
+
+===== Personality =====
+
+===== Appearance =====
+
+===== Before the Guild =====
+
+==== Upbringing ====
+
+==== Coming to Barreyon ====
