@@ -34,16 +34,38 @@ It contains a slightly inclined floor leading down to the centre, where the ring
     * Dreadlocks, glasses 
 
 ===== Inhabitants =====
+
+==== Store Owners ====
   * [[westward:characters:Galus]], Owner of //[[The Crooked Eagle]]//
   * [[westward:characters:Mildred]], Barkeep at //[[The Crooked Eagle]]//
   * [[westward:characters:Nathan]], Mildred's Understudy
-  * [[westward:characters:Layton Cailean]], priest at the local temple.
   * [[westward:characters:Dawson]], Owner of general store
-  * [[westward:characters:Thurem]], town blacksmith
-    * Half Orc with a deep, bellowing laugh
   * [[westward:characters:Mavis]], runs the post office
     * A wiry old woman with big glasses and a wispy voice
     * Her glasses were a gift from a rich dude or something from some city somewhere.
+
+
+==== Merchants & The Merchant's Collective ====
+  * Samuel, supplier of Dawson, usually stationed in Wesbond
+  * Roswin, works at the Merchant's Stay.
+  * [[westward:characters:Jack]], helps manage the supply of wood between woodcutters, woodworkers and builders.
+
+==== Special Services ====
+  * [[westward:characters:Layton Cailean]], priest at the local temple.
+  * [[westward:characters:Samantha]], botanist who helps out at the temple and its hospital.
+
+==== Artisans, Craftsman & Workers ====
+  * [[westward:characters:Thurem]], town blacksmith
+    * Half Orc with a deep, bellowing laugh
+  * [[westward:characters:Ephraim]], [[westward:characters:Macie]] and [[westward:characters:Kade]], woodcutters. Respectively:
+    * Half-orc, 
+    * Human, very well built with sunkissed skin
+    * Halfling, excellent at climbing and assisting within the treetops.
+  * [[westward:characters:Jannis]], carpenter
+  * [[westward:characters:Jannis]], carpenter
+  * [[westward:characters:Jannis]], carpenter
+
+==== Others ====
   * [[westward:characters:Flavius]], Expert Potato farmer
     * makes pathetically awful jokes
   * [[westward:characters:Brianna]], a mysterious curly-haired halfling who used to work as an Engineer at the Carvehook Mines

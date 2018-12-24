@@ -3,11 +3,11 @@
 ^ Korlan Ferreira ^^
 | Race | Halfling |
 | Gender | Male |
-| Age |  |
-| Height |  |
-| Weight |  |
+| Age | 24 |
+| Height | 3'0" |
+| Weight | Very Light |
 | Town | [[westward:locations:Barreyon]] |
-| Hometown | |
+| Hometown | Alderan |
 | Primary Goal |  |
 </WRAP>
 ===== Personality =====
@@ -15,6 +15,7 @@
 ===== Appearance =====
 Korlan holds a shortsword with three notches in the blade, mimicking the holy weapon of [[pfw>Chaldira]].
 
+He's a tanned halfling with dark curly hair. His family were farmers who fled Alderan, so during his youth he split his time between tending to the land and reading everything he could at the library
 ===== Before the Guild =====
 Korlan hails from [[westward:locations:The Far East]], on the border of a nation where Halfling slavery is considered the norm.
 

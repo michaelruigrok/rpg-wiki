@@ -1,7 +1,7 @@
 ====== Pantheon ======
-For the most part, the _Westward_ pantheon follows that of Pathfinder, but with tweaks and changes that naturally arise from worldbuilding and play.
+For the most part, the //Westward// pantheon follows that of Pathfinder, but with tweaks and changes that naturally arise from worldbuilding and play.
 
-The biggest change to the Pathfinder Pantheon is that Deities are never represented directly as people. unless they [[pfw>Ascension|ascended]] from a previous humanoid form. Another exception is Shelyn, who is depicted as beauty in all its forms.
+The biggest change to the Pathfinder Pantheon is that Deities are never represented directly as people, unless they [[pfw>Ascension|ascended]] from a previous humanoid form. Another exception is Shelyn, who is depicted as beauty in all its forms.
 
 ===== Irori =====
 
