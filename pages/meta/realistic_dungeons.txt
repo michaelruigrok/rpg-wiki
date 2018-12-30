@@ -1,4 +1,4 @@
-====== Meta:Realistic Dungeons ======
+====== Realistic Dungeons ======
 ===== Old Structures =====
 While increasing the age of a dungeon can be an easy way to add to the atmosphere and intrigue of a dungeon, doing so limits the dungeon's potential contents. When designing old dungeons, keep in mind elements that change over time:
   * Wood rotting away
