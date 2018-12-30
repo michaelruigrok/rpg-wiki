@@ -1,0 +1,71 @@
+====== Geographic Features ======
+This page is a list of interesting features which can be incorporated into terrain, for when players wish to explore an environment.
+
+==== General ====
+  * Large rock formations, jutting out from the ground
+    * Large, smooth sandstone
+    * Archways, enterable underneath
+  * Battery, Mesa, Plateau
+  * Bog
+    * Spongy ground made of plant matter
+  * Claypan, flats, salt lakes
+  * Valley, Vale
+  * Dens/Lairs
+  * Downland, Headland
+  * Fell/Moor - Bare, rocky ground, coarse grass, some alpine trees
+  * Field, Meadow
+  * Gardens
+
+==== Inland Water Bodies ====
+  * Shore/Beach
+    * Can easily apply to rivers, lakes, ponds, you name it.
+  * Blowhole
+  * Basin
+  * Dried river bed
+  * River, creek, 
+    * Tight bends vs straight (usually based on land hardness)
+  * Billabong/Oxbow lake, Lagoon
+  * Waterfalls, cascades
+  * Ford, Crossing - particularly shallow/slow running sections of water
+  * Dam
+  * Eddy, whirlpool
+  * Rapids
+  * Emergent rocks, reefs
+  * Shoal
+
+==== Underground ====
+  * Caverns
+  * Chasms, fissures
+  * Grotto
+  * Pit-cave/hole
+  * Sinkhole
+
+
+==== Coastlines ====
+  * Capes, Penninsulas
+  * Cove, Bay
+  * Delta, river mouth, estuary
+  * Neck/Isthmus
+
+==== Forest ====
+  * Scrubland/Bush, Heath
+  * Grove
+  * Glade
+  * Hollow
+  * Thicket
+
+==== Wetlands ====
+  * Bog
+  * Marsh
+  * Swamp
+
+==== Mountanous ====
+  * Large stone archways between mountanous bodies
+  * Saddle/Pass - Deep gap between two mountains
+  * Crag
+  * Dome/Knoll - particularly rounded hills (esp. isolated)
+  * Glen - steep valley, often with water feature at bottom
+  * Gorge, Canyon
+  * Lookout
+  * Massif - tightly connected/ridgelike mountains from seismic activity
+  * Point, Cape
