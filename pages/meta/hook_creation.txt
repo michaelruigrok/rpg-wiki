@@ -1,0 +1,30 @@
+====== Hook Creation ======
+In general, hooks should have some of the following characteristics to attract player investment:
+
+=== In-game Rewards ===
+  * Tangible goods: money, gear, spells, abilities
+  * Information about treasure locations, maps
+  * Social status/standing
+    * Allies, Clubs, 
+  * Special Treatment
+    * Store discounts
+    * Advice/Information services
+
+=== Mystery ===
+  * Play on the curiosity of the party
+  * New information may be seen as a reward
+  * Abnormalities and strange phenomena are very compelling
+  * What might be hiding in an interesting location
+
+=== Related to pre-existing events/activities ===
+  * Negative consequences require new issues to be taken care of.
+  * Think of what new opportunities may become accessible due to success/rewards. Players will be happy to capitalise on their new capacities.
+
+=== Threat of Negative consequences ===
+  * Immediate danger to an individual
+  * Townsfolk discussing feelings of unease relating to an issue
+
+=== Character-driven ===
+  * Opportunities for a player to perform/explore aspects of their character
+  * Emphasise the heroism and popularity the players have among their society.
+  * Rivalry, Impress others.
