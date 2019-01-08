@@ -1,4 +1,5 @@
 ====== The Crooked Eagle ======
+{{ :westward:crooked-eagle.png?400| The Crooked Eagle Interior}}
 The Crooked Eagle is the main tavern and town hall of [[Barreyon]].
 
 It is owned by [[westward:characters:Galus]], a cheery, very short mer who could be mistaken for a halfling. His co-workers are Mildred, a barkeep, and Nathan, a bartending understudy.
