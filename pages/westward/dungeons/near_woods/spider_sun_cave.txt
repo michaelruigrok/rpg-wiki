@@ -4,32 +4,95 @@ The ground beneath the [[westward:locations:Near Woods|Near Woods]] features lar
 Outside the cave entrance sits a large rounded obelisk. on the top and bottom it feature several horizontal circles carved into its surface. In the middle, a large icon is carved, appearing to be a cross between a spider and a sun.
 
 ===== Brianna's Hideout =====
-=== 1: Entrance Cavern ===
-The first room of this entrance is a wide cavern. Dark brown walls with slightly greyer patches, containing traces of Resonite. They are very rough, with nooks, crannies and holes covering their whole surface. 
+==== 1: Entrance Cavern ====
+Basics:
+  * A wide, round cavern
+  * Dark brown walls with slightly greyer patches, containing traces of Resonite
+  * Walls are very rough, with nooks, crannies and holes covering their whole surface
+
+Objects:
+  * Fleckstone Filter, well maintained
+  * Pile of scissors and bloodied bandages
+    * Now just scraps of bandages
+ 
 
 On the bottom wall, a Fleckstone filter has been constructed from the dug out wall. It has been maintained by [[westward:characters:Brianna]], with a glass beaker at the bottom catching any remains.
 
-On first visit, a pile of scissors and dirty bandages from [[westward:plot:Louisa Henchfifth's Missing Body|Louisa Henchfifth]] which she used to secure its wrappings when taking it over the ravine. They've also been used while dissecting the body, and thus have blood on them. 
+On first visit, a pile of scissors and dirty bandages from [[westward:plot:Louisa Henchfifth's Missing Body]]. They were used to secure its wrappings when taking it over the ravine. They've also been used while dissecting the body, and thus have blood on them. 
 
-=== 2: Alcove & Crevice ===
-One end of the cavern thins out into a passageway to a little alcove, curving out both left and right. 
+==== 2: Alcove & Crevice ====
+Basics:
+  * Cavern thins out into passageway to little alcove, expanding both left & right
+  * Alcove leads in to thin walk-able crevice.
+  * Crevice leads to large wooden door.
 
+Objects:
+  * Large Barrel of Phalo-aldehide in left of alcove
+
+=== Alcove ===
 On the left is a cedar barrel with a sealed lid. It contains Phalo-aldehide, a viscious light-grey liquid used to disinfect and preserve biological material. On skin, it begins to tingle after a few seconds, transitioning into a burn which continually gets worse.
 
-On the right of the alcove sits Louisa Henchfifth's corpse, covered in its large cloth wrapping. The Phalo-aldehide has been applied to her skin, leaving it blackened, and pumped through her arteries. However, the chemical has caused her internals and skin to remain with the same texture and physicality as if they were alive.
+The right of the alcove used to house Louisa Henchfifth's corpse, covered in its large cloth wrapping. The Phalo-aldehide has been applied to her skin, leaving it blackened, and pumped through her arteries. However, the chemical has caused her internals and skin to remain with the same texture and physicality as if they were alive.
 
-The back of the corpse has been cut open and some ribs have been removed. Brianna has performed some kind of changes to her back, but the untrained eye could not determine what.
+The back of the corpse has been cut open and some ribs have been removed. Brianna has performed some kind of changes to her back, most notably removing a large sample of heart tissue. But the untrained eye would be unable to determine what was changed.
 
-Past the alcove is a thin Crevice, which leads to a wooden door. The door is make of thick wooden planks. The planks have cracks in between that can be seen through, but have been magically treated so nothing but darkness is visible, even for those with darkvision. Once the door is open, the golden light that bathes the next room comes through its opening (but not the cracks).
+=== Crevice and Door ===
+Past the alcove is a thin crevice. While a tight fit, the crevice is wide enough for all players to pass through without too much trouble. Since the crevice curves leftward, the bigger risk is something inside the players cannot run from. At the end, the crevice fans out to fit in a large wooden door. 
 
-=== 3: Desnan Fountain ===
+The door is make of thick wooden planks. The planks have cracks in between that can be seen through, but have been magically treated so nothing but darkness is visible, even for those with darkvision. Once the door is open, the golden light that bathes the next room comes through its opening (but not the cracks).
+
+==== 3: Desnan Fountain ====
+  * Artificially dug out room with relatively smooth walls
+  * Fountain as per Pathfinder Beginner Box
+ 
 Compared to the last room, this room has been artificially dug out. It contains a fountain, identical to that found within the Black Fang Dungeon from Paizo's Beginner Box.
 
 If water is removed from the fountain and mixed with the Phalo-aldehyde from the other room, the mixture begins to spark where they touch, but the two do not mix until the light has faded. If Phalo-aldehyde is poured directly into the fountain, it will spark much more violently, splashing water and the preservative everywhere.
 
-When Korlan put his sword into the fountain, Desna reacted to the three scratches on his sword as a sign of devotion to Chaldira, blessing the sword for the rest of the day. This caused it to glow a golden light, like the fountain.
+When Korlan put his sword into the fountain, Desna reacted to the three scratches on his sword as a sign of devotion to Chaldira, blessing the sword for the rest of the day. This caused it to glow a golden light, like the fountain has.
 
-=== 3: Heart Altar ===
+==== 3: Heart Altar ====
+Basics:
+  * Same, dug out walls as fountain room
+  * Large stone table in centre of room, made of a single slab
+    * Opposite side dug out to form storage area
+  * Hallway entrance in far right
+
+Objects:
+  * On altar, circular metal stand
+  * Two halves of a heart
+    * One on right side of altar
+    * Other on ground in left back corner
+  * On ground behind altar (partially visible), medical/technical utensils
+    * tweezers/scalpels in leather satchel
+    * large glass pot with suction cup/pump on top
+  * Inside altar, large magical/mechanical fear device. Square box.
+
+Once an altar for other purposes, Brianna has repurposed the room as a safeholding for her supernaturally beating heart & associated research.
+
+To protect the heart, Brianna and Wallace constructed a magical device to fill trespassers with dread, hoping that it would deter anyone from getting near.
+
+The heart was the beating one Brianna recovered from the mines, now motionless. It once sat on the metal stand in the centre of the altar. Brianna placed in such a way to intensify the fear of the device. 
+
+However, it also gave the impression that the heart was the cause of the terror, leading adventurers to wrongly perceive the heart as evil. This happened to [[westward:characters:Groford]]. Terrified by the fear device, Groford struck the heart with his sword in hatred and anger, splitting it in two.
+
+The device below the altar radiates a faintly visible pulse every few seconds. Inside, a set of gears and mechanisms stir about a magical elixir, exciting the life force it contains and giving off an effect of fear. It has a large nob on top which can be turned, and a switch on the side which de/activates the device.
+
+
+==== 4: Hallway and Study Room ====
+Basics:
+  * Hallway continues to curve left, but a hole on the right side leads to a spherical room
+  * Used as study/laboratory for Brianna
+
+Objects:
+  * Beakers & chemical equipment, filled with chemicals
+  * Two small samples of heart tissue in vacuumous container
+  * Container of the rest of sample from Louisa 
+  * Scattered books about medical/scientific topics.
+  * Hand-written Journals of experiments
+  * Spell-book
+
+Books are scattered, relating to Brianna's research. Human biology, chemistry & biochemistry, cave formations, etc. A few of the published books are even written by Brianna herself.
 
 ===== Kolarc Livingspace =====
 === 1: Kolarc Outpost ===
