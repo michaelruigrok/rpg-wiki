@@ -5,6 +5,8 @@ Outside the cave entrance sits a large rounded obelisk. on the top and bottom it
 
 ===== Brianna's Hideout =====
 ==== 1: Entrance Cavern ====
+{{ :westward:dungeons:near_woods:spidersun-cave-1.png?200| Bradley, a wrestler at the ring}}
+
 Basics:
   * A wide, round cavern
   * Dark brown walls with slightly greyer patches, containing traces of Resonite
