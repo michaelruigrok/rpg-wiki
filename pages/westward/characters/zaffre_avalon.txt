@@ -1,26 +1,119 @@
 ====== Zaffre Avalon ======
+
 <WRAP right 30%>
 ^ Zaffre Avalon ^^
 | Race | Mer |
 | Class | Rogue |
-| Gender | M |
-| Age |  |
+| Gender | Male |
+| Age | 22 |
 | Height |  |
 | Weight |  |
 | Town | [[westward:locations:Barreyon]] |
 | Hometown | [[westward:locations:Wesbond]] |
-| Profession | Performer, Guildmember |
-| Primary Goal |  |
+| Profession | Entertainer, Thief, Guildmember |
+| Primary Goal | Obtain Grand Adventures and Wealth |
 </WRAP>
 
 Zaffre is a member of the Barreyon Adventurer's guild hailing from Wesbond.
 
 ===== Personality =====
+Adventurer, thrill seeker, performer, free spirit. Zaffre is a fun-loving guy who is always keen to try new things, subject to his own whims, confident, charismatic and quite a showboat. 
+
+He loves making jokes (both verbal and practical), mocking, taunting, and laughing. 
+
+He’s nice to people he likes/respects/useful to him (doesn’t care much for random people he doesn’t particularly know). 
+
+His greed also makes him a compulsive gambler who loves making bets and a bit of a kleptomaniac that sometimes can’t help himself when he sees something valuable, especially when he’s confident that he can get away with it.
+
+His friendly nature belies his arrogance, narcissism and self-entitlement. Zaffre always put himself first before others, he may however show compassion to those that remind him of himself.
+ 
+The mentality he inherited from his teacher is that the world is cruel... so make the most of it, live life to the fullest, enjoy yourself by doing whatever you want, do whatever it takes to succeed and don't let anyone get in your way.
+
+He would only go out of his way to help other people if there’s something in it or beneficial for him. (“I help people who help me, if I feel like it”). 
+
+He loves to be a show off at any time he can, even in combat or other such prickly situations, it is very fun for him to pull off and to show off his skills and tricks. He also really takes pleasure in people being impressed/amazed by the things he does. His antics also makes for good stories.
+
+He Tends to avoid conflicts he knows he can't win and tries to get through situations without endangering himself if he can. But when he is in conflicts, there are no rules especially in a fight to the death, and cheaters always prosper. 
+
+Has no aversion to killing, but there's no point in killing if you don't have to.
+
+He has a bandana that he always wears and rarely takes off, he calls it his most valuable possession. He is somewhat obsessed with it, sometimes when he’s alone he’ll talk to it as if it were a device to talk to Maria, it helps him cope. If anyone damages or tries to take it, he will be filled with rage and may become violent. Otherwise, he is generally not quick to anger outside of particularly sore subjects (his bandana, Maria or possibly other people if he cares enough about them).
 
 ===== Appearance =====
 
+===== Fighting Style =====
+  * Strong use of dexterity, gymnastics and cunning. 
+    * Makes as much of a show of fights as he does with his other performances. 
+  * Fights dirty, willing to trip, blind and create/exploit any possible weakness to gain an advantage. 
+    * Bases a large part of his fighting style around it (e.g. his Bag of Grainy Stuff™, full of salt/chilli/dirt to throw in people's eyes) 
+    * Also more than willing to exploit any psychological weaknesses through mockery and taunting.
+    * He's an asshole is what I’m saying.
+
 ===== Before the Guild =====
+An orphan who doesn't remember his parents and lived day-to-day on the streets, stealing from some and scamming others to survive (and having a damn good time doing so). 
+
+But this way of living was always risky, and he often got into trouble resulting in beatings.
+
+When he was still young, he met a Master Thief named Maria Avelon who taught him all she knew and in time, became a parental figure to him. When Maria was eventually killed, he inherited her bandana that he wears it to this day.
+
+Eventually, Zaffre's love of dance and music produced a viable and safer career path; a dancer for the amusement of others. He loves the cheers, applause and praise he gets from people. 
+
+Though he would not give up his thieving lifestyle altogether, he has more safer options for making money if need be.
+
+Thanks to his likeable nature, Zaffre had many friends and acquaintances on the streets who he also had beneficial alliances with. For example, he performs with many different bards to put on great shows that also pay well, he sometimes works with other thieves or rogues of the city to pull off well-paying scams or heists that requires multiple people. Even though he considers them friends and enjoys their company, these friendships were mostly professional in nature, which lacked the depth to call them “true friends”. 
+The only person he has ever been able to call a true friend was Maria.
+
+It'd be nice to know who his birth parents were and where he came from for the sake of curiosity, but it's a low priority for him as he considers Maria as his true Mother/Parent.
 
 ==== Upbringing ====
 
+When Zaffre was only a few years old he was abandoned by his family, leaving him with nothing.
+And so, Zaffre spent a lot of his childhood by himself on the streets as a beggar on the streets. 
+As he grew up, people were giving him less and less until they didn’t give him anything at all. As this developed, he would attempt to steal food among other things from markets, when he succeeded he thought it was easy, but when he failed it often resulted with punishments and/or beatings. 
+
+One day when Zaffre was 8 years old, he attempted to steal food from a stall but was caught and beaten in an alley by the owner and had the food taken back and put in his bag. As he laid there writhing in pain, he sees a woman approaching him, swipes the owner’s food and wallet as she passes him without him knowing. She offers Zaffre the very food he just tried to steal. Despite being hurt, Zaffre desperately takes the food and eats it. 
+
+The woman sits down next to him and gives Zaffre a few pointers on technique as she ensures that he is okay. After being truly amazed by her talents he asks for the woman to teach him more of her techniques. She laughs as she says that she doesn’t take students, bids him farewell and proceeds to leave. Zaffre follows her persistently and repeatedly asking her to teach him, even while following her while she is blending in a crowd, scaling small constructs. Impressed that he was able to follow her despite being hurt and knowing that he will just keep on pestering her, she eventually stops in an alley and finally agrees to teach him some of her techniques.
+
+This woman’s name was Maria Avelon.
+
+Zaffre learns a few of Maria’s techniques faster than any normal person could, that’s when she realized that he had a natural talent for the thieving arts. Thinking that he could prove to be a useful partner in crime she continued to teach him, after some time she grew quite fond of him. After a year, they developed a strong bond and were inseparable. Then after another year, they began to consider each other as family, so much so that Maria formally adopted him as her own son bestowing him the surname Avelon. 
+
+The two of them made them an impeccable team, they pulled many heists together and made a lot of money. Together, they were going to become World Famous as the “World’s Greatest Thieves” of all time whose stories and legends will persist through history.
+
+Thievery wasn’t the only thing Maria taught Zaffre, she also taught him how to fight using his dexterity and cunning. Given her noble background and high intelligence, she was also able to give him a proper education. Fortunately, libraries are a safe and quiet place which is the ideal place to give Zaffre his education. She taught him many things such as how to read, write, mathematics and many other subjects.
+
+After many years of being together, there came a day when the two were on the run from guards after stealing a lot of money from a noble and found themselves at a dead end. At this point in time Zaffre was only 15 years old, not ready to face an opponent like a large group of royal guards. 
+
+So minutes before the guards came, they had a discussion where Maria would give Zaffre a boost up a wall onto a high ledge to hide and she would try to take care of them. Eventually he agreed to go through with it, believing in Marias strengths and talents. 
+
+Knowing that the guards would search for him, Maria bestows her bandana to Zaffre as a way to hide his pointed ears to blend in easier and as a memento of her in case things go south. 
+
+Zaffre was able to scale the wall and hide as he watched the guards approach Maria and draw their blades. 
+Maria puts up a good fight, taking down a few of them but was overwhelmed and stabbed in the abdomen. Leaving a mortal wound, the guards leave her to die and begin the search for Zaffre “the boy with pointed ears”. After the coast was clear, Zaffre with intense tears climbs back down to Maria and talks to her for the last time, she tells him that she loves him very much and to always remember everything she taught him, to live life the way he wants to and to never let anyone get in the way of his aspirations. He promises her that he will become World Famous and be the “World’s Greatest Thief” whose legends will persist throughout history like they always talked about becoming together and make her proud. 
+
+Years go by following these events, he lives life the way he wants; making money by stealing, cheating, performing and other means. Continuing to pursue his goals, dreams and fulfil his promise.
+
+Ever since He lost Maria, he always felt an emptiness inside that has still yet to be filled. Sure, having money and expensive things help take his mind off it, but the feeling of emptiness would always remain as its never felt like it’s enough. He feels that the only way to fill this void is to fulfil his promise to her by achieving his aspirations.
+
 ==== Coming to Barreyon ====
+Since Maria’s untimely death, he has greatly developed all his skills and techniques that he’d been learning from her. He is now a very capable and successful thief.
+
+One day he sees a group of adventurers coming back from a mission, but more importantly the loot they returned with: gold, rubies and other fine jewellery. A man approaches them, gives them a bag containing more gold for finishing their task. 
+
+That’s when he realized that the whole adventuring gig, though it may be long and arduous, the payoff seems amazing and it also looks very thrilling, a lot of fun and a great way to get renown.  
+
+This was when he decided that he would begin a new journey to become a treasure hunter, figuring it’ll be like being a thief but on a larger scale.
+Knowing that he can’t do it all by himself, he now intends to be part of an adventuring guild. Though it may prove to be difficult to join one as not many people would trust a thief to be a part of their party. But he hopes that someday he will meet a group of people who will accept and appreciate his arts and skills.
+Of course, he won’t give up thievery altogether, but he will focus more on the task at hand rather than stealing. But stealing while adventuring would be like icing on a cake for him. 
+
+Thinking of all the potential treasures he’ll get all the while having new adventures and thrills puts a smile on his face.
+
+===== Facts and Trivia =====
+   * His favorite kind of food is spicy food. He absolutely loves spices, spices = flavor in his opinion. Second would be sweet things for obvious reasons.
+   * The biggest heist he’s ever done was with Maria, …………..
+   * The craziest theft he’s ever done was taking a coin pouch that was tied to a guy’s belt with one hand tied behind his back. It looked like child’s play when shortly after, Maria managed to steal a coin pouch with both hands tied behind her back.
+   * The dumbest thing he’s ever done was in an attempt to show off to Maria, he swiped a few coin pouches and started juggling with them thinking the victims wouldn’t realize. Unfortunately, when they turned around to watch the performance, they realized what he’d done and began chase. He dropped two of the three pouches trying to suddenly run away.
+   * He gets very antsy when he’s not doing anything. So, when he’s not doing anything he’d always be either practising his sleight of hand skills or just plain fiddling with something in his hands. 
+   * Goes to the library on occasion to do some light reading, usually reads about things that would be useful to him. 
+   * His most prominent flaws are: Intense Hubris and being a constant show off that’ll probably get him killed someday, Compulsive Gambler, Kleptomaniac. 
