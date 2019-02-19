@@ -22,18 +22,34 @@ The first outpost found by the adventures was a cave housing an injured Goblin D
 ===== Adventurer's Finding Goblin Dog & Goblins =====
 [[westward:characters:Kesil Cailean]], [[westward:characters:Korlan Ferreira]], [[westward:characters:Zaffre Avalon]] and [[westward:characters:Ox Virium]] were the first to find the injured goblin dog cave. Outside the cave, two Goblin Dogs were tied up to a post, and would ferociously attack anything that came close enough. Noting their aggression, the party decided to kill to dogs to safely enter the cave. Zaffre disposed of the bodies away from the cave, down towards the main path, leaving the ropes attached to the post.
 
-Inside the cave was an injured Goblin Dog, lying on a dirty pile of hay. It had the skin and flesh on its side completely torn off, exposing its internals. Kesil attempted to treat the dog, fetching a medical [[westward:world:resonite]] ointment from [[westward:locations:Barreyon Temple]], and applying it under a makeshift bandage from Kesil's undershirt. Promising himself to heal the injured dog, Kesil decided to travel to Wesbond to get more ointment.. Over the next week, Kesil strove to heal the Goblin Dog, and decided  travelling to Wesbond to get medical ointment for its wounds.
+Inside the cave was an injured Goblin Dog, lying on a dirty pile of hay. It had the skin and flesh on its side completely torn off, exposing its internals. Kesil attempted to treat the dog, fetching a medical [[westward:world:resonite]] ointment from [[westward:locations:Barreyon Temple]], and applying it under a makeshift bandage from Kesil's undershirt. Promising himself to heal the injured dog, Kesil decided to travel to Wesbond to get more ointment.. Over the next week, Kesil strove to heal the Goblin Dog, and decided  travelling to Wesbond to get medical ointment for its wounds. He left the goblin dog with a large stash of meat rations for it to eat while they were gone.
 
-In the meantime, [[westward:characters:Tory]], [[westward:characters:Melody Fiddle|Melody]] and [[westward:characters:Groford]] met the goblins Eyeball, the War Chief's son, and Ratters, riding on the Goblin Dog Grahn.
-  * While the goblins went into the encounnter with violent intent, Melody took them off-guard. Instead of drawing a weapon or getting out of the way of Grahn's charge. She stood her ground, stuck out her hand and yelled out 'Stop!'.
-  * By tricking the goblins into thinking Melody possessed powerful magic, she convinced the goblins to stay back 
-  * Furthermore, she turned the scenario on its head, offering the goblins her "magic fire-bearing device" (a lantern).
+The goblins were astounded by the seeming magical treatment of the injured goblin dog. Whatever the cause, it must have meant good things to come for the village. Everyone was discussing the possible cause of the event. For instance, this conversation between Wocky and Oolywere:
 
-The goblins were astounded by the seeming magical treatment of the injured goblin dog.
+>**Oolywere**: But they close by, they know their brother sick, they upset by it!
+>**Wocky**:  That meat were cooked! You telling me growlies (Goblin Dogs) went get meat, and sneak into village to cook it? It must be gods who did that, they make cooked meat in blink!
+>**Oolywere**: Gods can, but when last time do change for us? I telling you Wocky, there have be natural explanation!
+>**Wocky**: Well, how you explain magic cloth and sap? Growlies not know magic!
+>**Oolywere:** When they come back from escape, we look at them. They may have glitter or things. Then we know!
 
-Since the goblin dogs often escaped, and would come back after a couple of days, the goblins thought not too much of it.
+The goblins were less worried about the missing goblin dogs. Since the they often escaped, and would come back after a couple of days, the goblins thought not too much of it.
 
-However, the delay in time that travelling to Wesbond took, and the fact the dead bodies were left uncovered in the middle of the woods, meant soon enough the goblins found the dead bodies of the dogs. before the party could do anything about it. The arrows stuck in their flesh told them that other intelligent beings had been in the forest. Given an opportunity to attack,  
+While Kesil was at Wesbond, [[westward:characters:Tory]], [[westward:characters:Melody Fiddle|Melody]] and [[westward:characters:Groford]] met the goblins Eyeball, the War Chief's son, and Ratters, riding on the Goblin Dog Grahn. Noticing that the 'magic cloth' these strange beasts were wearing was similar to that the injured dog was wearing, the goblin's debated whether they should attack and steal all their magic.
+Hearing this, Melody tricked them into thinking that they did in fact possess powerful magic, and that the goblins were best to stay back. This unknown was enough to catch the goblins off-guard, giving them second thoughts on the matter. Taking control of the conversation, Melody offered diplomacy instead. She gave the goblins her "magic fire-bearing device" as a gift. Enamoured with the thought of owning magical equipment (the only magical item in the whole village is a flint-and-steel owned by Gutworm) the goblins quickly forgot about their attack. This was an opportunity to gain renown in the village and impress the War Chief.
+
+That same day, Groford, Tory and Melody saw the goblin village from afar, perched on top of a hill. While the other two stayed back, Tory snuck in to the village where he met War Chief Gutworm. Tory offered him 'magical' gifts, mentioning his friends back in Barreyon. Gutworm saw this as an ambush opportunity, and offered Groford to bring back as many 'magical' items he could carry, so they could 'trade'. An obvious trap, nothing ever came from this.
+
+After their hunt, Ratters and Eyeball returned to the village to tell of their encounter. As Gutworm's son, Eyeball went to him.
+
+Keen for a good battle, Gutworm did not in fact tell Chief Chief. He did not want to risk the chance of a peaceful resolution. 
+
+However, the delay in time that travelling to Wesbond meant the dead dogs were discovered before the party could return. This was not helped by the bodies' disposal - they were put in a central and often-accessed part of the forest, and were not covered up. The arrows stuck in their flesh told them that other intelligent beings had been in the forest.
+
+===== Goblin Reactionary Defence =====
+
+Given an opportunity to attack, War Chief Gutworm ordered a series of guard posts be put throughout
+
+The next time Tory, Groford and Melody returned to the woods, this time with [[westward:characters:Princessa]]
 
 Kesil returned from Wesbond with more ointment.
 
@@ -44,5 +60,3 @@ Oolywere was on watch with Wocky, and were ambushed by Zaffre and Connor. While 
 Knowing how dangerous the humans coming in were, and not wanting to risk goblins lives, the three decide the only way out is to meet the human's terms. 
 
 Kesil, Ox, Zaffre and Korlan met 
-
-===== Goblin Reactionary Defence =====
