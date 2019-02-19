@@ -6,6 +6,6 @@ This is Crusade of Order's Might wiki. It details the worlds of two Pathfinder c
 
 This isn't intended to be used as a straight campaign module. Rather, it has locations, characters and arcs which can be used to form your own campaign, or taken individually to suit your own needs. Any of the described narrative events can be started from the beginning (and in any order you like!), merely used as backstory, or in any configuration you can think of. Still, you'll definitely find that the most fleshed out information and story points stem out from the campaigns, which started in a very isolated area of the world.
 
-A good place to start looking for information you want is the [[:welcome?do=index|sitemap]], which is always located at the top right of the page. If you have absolutely no idea where to start, you could check out and introduction to [[coom:world_and_regions|the CoOM World]] or [[westward:world_and_regions|the Westward World]]. 
+A good place to start looking for information you want is the [[:welcome?do=index|sitemap]], which is always located at the top right of the page. If you have absolutely no idea where to start, you could check out and introduction to [[coom:world_and_regions|the CoOM World]] or [[westward:world:overview|the Westward World]]. 
 
 Keep in mind, if you are a player in either campaign, **this wiki will have heaps of spoilers**. Stay safe.
