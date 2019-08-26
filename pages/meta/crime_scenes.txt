@@ -1,0 +1,28 @@
+====== Crime Scenes =======
+This page covers evidence, descriptions, motivations, procedures and solutions for crime scenes.
+
+Solutions of crime scenes might differ based on the scenario - what actually occurred, the order of events, who did the crime, who was the victim, when the crime took place, etc.
+
+===== Evidence ======
+Left behind objects
+  * Bodily residue
+    * Fingerprints
+    * Blood/guts/vomit etc
+  * Footprints, dirt, mud
+  * Clothes, accessories, trinkets, other belongings
+    * Think about what the character would have, good lead for players
+  * Tools, items used in the crime
+
+Damage
+  * Snapped/broken objects
+  * Dents, marks, holes, 
+  * Stains
+
+Witnesses
+  * Actually seeing the crime
+  * Seeing individuals entering or leaving the premises
+  * Sounds of breaking in, the crime taking place, etc.
+  * Guarantees that something DIDN'T happen
+    * For example, the bouncer might know nobody entered a particular room between certain hours
+
+Mistakes don't have to be sloppy things that weren't cleaned up - maybe a coverup was completed poorly, objects were put back in an arrangement that would have been impossible otherwise (e.g. maybe the victim was too short to put their dentures on the top shelf).
