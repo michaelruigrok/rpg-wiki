@@ -5,8 +5,13 @@ The Frozen Valley takes place in the isolated town of Tarkley, nestled in the de
 ===== Backstory =====
 
 ===== Tarkley =====
-Fifteen years ago, the town of Tarkley began having very intense winters, which increased each year until year round the town suffers from 
+Fifteen years ago, the town of Tarkley began having very intense winters, which increased each year until the town suffers from a year round winter.
 
+This was the work of the town's tavern owner, Molly, who found the harsh winter brought more customers into the warmth of his tavern.
+
+An ardent fire-wielding magic user, Molly heats his tavern with fire spells. Since wood is so scarce in the town and must be imported, Molly can light his premises brighter and warmer without worrying about the cost or supply of wood needed.
+
+The villages industry has shifted to speciality craft work - clockmaking, artisinal sandstone sculpting, Yak fur lottery, etc. 
 ===== Adventure Start =====
 ==== Previous Town (optional) ====
 
