@@ -1,7 +1,17 @@
 ====== Louisa Henchfifth's Missing Body ======
 Louisa Henchfifth died in an unfortunate cooking mishap where boiling water was poured over her body.
 
-===== Clues =====
+As is standard procedure in Barreyon, her body was to be cremated. This process is handled by but before it could be the body went missing.
+
+===== Clues in Town =====
+As a fairly unusual and morbid event, Louisa's disappearance is a major talking point and rumours about the event spread quickly. The party should have no trouble learning about the event. However particular details are lost in a sea of conflicting speculation. In listening to rumours, the guild found out about the mourning Henchfifth family, and the cremator Mia, as two possible leads.
+
+==== Henchfifth Family ====
+
+==== Mia ====
+
+==== The Crematorium ====
+
 
 ===== Actual Events =====
 Louisa's body was taken by [[westward:characters:Brianna]] and her accomplice [[westward:characters:Wallace]], to continue her research into death and undeath.
