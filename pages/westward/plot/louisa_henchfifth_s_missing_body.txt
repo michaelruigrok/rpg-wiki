@@ -12,10 +12,15 @@ As a fairly unusual and morbid event, Louisa's disappearance is a major talking 
 
 ==== The Crematorium ====
 
-The door in sits on the long side of the shed facing away from town, towards the crematorium.
-One the side of the shed are two frosted glass windows 
-After 
+The door in sits on the long side of the shed facing SW, away from town, but towards the crematorium. The door has a fairly hefty lock. To the trained eye, the lock seems untampered with - if it was picked, it wasn't by a novice. 
 
+The south-east side has two frosted glass windows in the top east corner. The windows have large, stiff metal at the top that open outward. The windows are small - an average human could slide horizontally through it, if it weren't so high. Someone of shorter stature would have considerably more luck, but would need to be boosted to reach the window.
+
+Along the northwest side of the shed are worn wheel tracks. One end moves directly to the town, the other end starts moving away from town but curves right until it circles back to the other track.
+The party might identify these tracks as from the wagon carrying bodies from the city to the location.
+
+
+While investigating the interior, Zaffre and Kesil left their own footprints among the loose dirt. Mia rolled well enough to notice this, but not enough to identify them as belonging to Zaffre or Kesil.  
 
 ===== Actual Events =====
 Louisa's body was taken by [[westward:characters:Brianna]] and her accomplice [[westward:characters:Wallace]], to continue her research into death and undeath.
