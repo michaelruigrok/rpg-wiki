@@ -2,16 +2,22 @@
 
 ===== Introducing narrative hooks =====
 ==== Starting Environments ====
-  * Players can generate a sensible reason why a party would assemble according to their backstories
-  * Have an adventurers guild that the adventurers are all part of
-  * Have a town event or similar to which they take part in
-    * Tournaments
-    * Festivals
-  * Stuck in a isolated location, like in transport. Or in gaol!
+  * Build off player backstories to find common ground, ways in which they might come together
+    * Allow players to give input to this, have an open option for joint collaboration.
+  * A joint organisation, guild or community the players are all part of
+  * Have them forcefully meet in an isolated location
+  * A public location or event that most of the town participates in
+    * Taverns, markets/shops, gaol, libraries, transportation
+    * Festivals, tournaments, town census
+
 
 ==== The Catalyst for the Adventure ====
-  * A planned activity or task goes pear-shaped
-  * A shady character comes into the mix who might be chased for information
-  * Similarly, gossip of a odd or strange occurrence causes unease
-  * A group of miscreants suddenly attack
-  * One character must recruit the rest of the party for a mission they already have
+Start off with the normal world -- how was that day supposed to go? What was the player's goals before the inciting incident. Then start to think about how things could go wrong, or not according to plan
+  * New information could spur the players to follow an adventure
+    * Gossip, rewards, interesting place to explore, unusual events or looming threats
+  * Something might abruptly change the current way things are playing out. Possibly causing players to be fighting for their lives.
+    * Attacked by someone/something, magic portal suddenly opens, wrongfully arrested, 
+    * It's always good to have a back up one of these, just in case players don't take an initial hook.
+  * Think about characters that could throw a spanner in the works, or would be interesting and maybe draw players in
+  * Think about making the catalyst experience assymetric for each player
+    * One character might have to work to recruit the rest of the party for a mission they already have
