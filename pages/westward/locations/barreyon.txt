@@ -69,6 +69,7 @@ It contains a slightly inclined floor leading down to the centre, where the ring
   * [[westward:characters:Flavius]], Expert Potato farmer
     * makes pathetically awful jokes
   * [[westward:characters:Brianna]], a mysterious curly-haired halfling who used to work as an Engineer at the Carvehook Mines
+  * Kerra and Morved, a pair of bards who usually play at the markets
 
 ==== Members of the Adventurer's Guild ====
 {{page>westward:barreyon_adventurer_s_guild#Members&noheader}}
