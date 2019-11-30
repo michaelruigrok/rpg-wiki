@@ -1,10 +1,11 @@
 ====== Wesbond ======
 Wesbond (literally west boundary) is a relatively large city, the closest to [[Barreyon]]. It’s a full day’s travel away, requiring travellers to depart at dawn and arrive at sundown.
 
-Due to the expanding population and the natural barrier around town of [[westward:Westward World and Regions#The Opaque Night]], the town has begun building up instead of out.
+Due to the expanding population and the natural barrier around town of [[westward:world:overview#The Opaque Night]], the town has begun building up instead of out.
 
 Wesbond is more of a corporation than a city, where almost everyone is a civil servant. The city is run by a board of directors.
 
+===== Wesbond =====
 Work ethic is a central value of the city - being a worker as part of the city is a great honour and highly valued position; an important cog in the complex and great Wesbond machine. And this is for great reason. Wesbond relies on the enormous output of its citizens; without the city could never support itself.
 
 Consequently, the city government works to have tight control over its population and the way they work. Children are thrown into the workforce from a very young age. All business interactions, monetary transfers, and work completed must be reported to the government. 
@@ -17,6 +18,14 @@ The city attempts to indoctrinate orphan into the system as soon as possible, th
 
 The rigorous structure of Wesbond leads to a massive imbalance of owned wealth and living conditions. Lavishly dressed nobles can sometimes be seen riding decorated horses through the slums, but the poor rarely have much contact with them beyond this.
 
+===== Race Relations =====
 Due to the amount of impotent race couples, adoption rates are very high, and the city puts in a lot of work to ensure each orphan is placed in a family, to maintain the values of work in the family unit. The adoption system restricts vertical movement between class. Rather than adopting, the rich will commission children from other aristocratic couples in order to maintain the 'purity' of their family line. For certain discriminated races, they can often find themselves locked out of the system.
 
 Mer are dually perceived in Wesbond, In the lower classes, they are shunned for their alien nature. However, they are seen as a very noble race by the Aristocracy. They are able to interbreed with other races, without giving birth to a half-race. 
+
+===== Aristocracy =====
+Those high up in the government, and their relatives, live in luxury.
+
+Aristocratic families are split into several houses, spread throughout the city. House names have a two-word structure, usually basic or firm sounding. Examples are Redwinter, Strongarm, Featherdawn, Broadheart, Tinsword, Daylark, Freelion.
+
+First names tend to be last name sounding, with long round vowel sounds. Examples are Raddlefelm, Lu De Mar, Cookson, Hall, Harrison, Freemer, Genmar, Holston, Flethley, Palmers.
