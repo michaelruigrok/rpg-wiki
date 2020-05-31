@@ -1,5 +1,22 @@
-====== Realistic Dungeons ======
-===== Old Structures =====
+====== Dungeon Design ======
+
+===== Describing Rooms =====
+Start with establishing info, things that describe the mood, and finish with interactive elements.
+
+* Room size and dimensions
+* Light and Light sources.
+* Visible Doors and Exits. (Including stairs).
+* Large objects. (Pillars, Dias, Pedestals, Statues,  Pit, Chasm, Stream, Lava).
+* Furniture. ( Tables, Chairs, Cabinets, Torture Implements )
+* you want to go further 
+
+Don't forget other senses of each thing:
+* Sounds, smell, feel, temperature,
+* Is anything overwhelming, hard to notice
+
+
+===== Realistic Dungeons =====
+==== Old Structures ====
 While increasing the age of a dungeon can be an easy way to add to the atmosphere and intrigue of a dungeon, doing so limits the dungeon's potential contents. When designing old dungeons, keep in mind elements that change over time:
   * Wood rotting away
   * Fungus, moss and plant growths
