@@ -1,3 +1,12 @@
+====== Pantheon and Planes ======
+
+====== Planar system ======
+//Westward// does not directly copy its planes system from Pathfinder. Different ideas of the universe and possible afterlife exist, but there is no agreed upon ideas of multiple dimensions.
+
+The material plane itself is considered mysterious and unique to multiplanar beings. It lacks alignment - not even neutral. In the material plane, any being can be swayed from any cosmic alignment to another, and material beings are granted immunities from moving from one plane to another. This is why beings native to the [[westward:world:overview#the_opaque_night|The Opaque Night]] cannot pass through to the normal world in regular circumstances.
+
+Because of this, the 'powers' of the material plane are often highly sought after by deities and alien beings.
+
 ====== Pantheon ======
 For the most part, the //Westward// pantheon follows that of Pathfinder, but with tweaks and changes that naturally arise from worldbuilding and play.
 
