@@ -14,6 +14,9 @@ This page is a list of interesting features which can be incorporated into terra
   * Downland, Headland
   * Fell/Moor - Bare, rocky ground, coarse grass, some alpine trees
   * Field, Meadow
+    * Rocky/badlands
+    * Tall grass, savannah
+    * Sell it by describing other plants/objects sprinkled within
   * Gardens
 
 ==== Inland Water Bodies ====
