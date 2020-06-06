@@ -35,6 +35,7 @@ This page is a list of interesting features which can be incorporated into terra
   * Rapids
   * Emergent rocks, reefs
   * Shoal
+  * Islands
 
 ==== Underground ====
   * Caverns
@@ -62,8 +63,8 @@ This page is a list of interesting features which can be incorporated into terra
   * Marsh
   * Swamp
 
-==== Mountanous ====
-  * Large stone archways between mountanous bodies
+==== Mountainous ====
+  * Large stone archways between mountainous bodies
   * Saddle/Pass - Deep gap between two mountains
   * Crag
   * Dome/Knoll - particularly rounded hills (esp. isolated)
@@ -72,3 +73,19 @@ This page is a list of interesting features which can be incorporated into terra
   * Lookout
   * Massif - tightly connected/ridgelike mountains from seismic activity
   * Point, Cape
+
+
+===== Generic Terrain Properties =====
+  * Wet, muddy ground
+  * Rocky outcrops, boulders
+  * Slopes/elevation changes
+  * Loose ground, including leaf/debris coverage
+  * Fire-prone conditions
+  * Manmade structures to assist traversal e.g. bridge, paths
+  * Frost/sleet
+  * Insects
+
+
+===== Other Terrain Resources =====
+https://www.dandwiki.com/wiki/SRD:Forest_Terrain Rules for forest terrain
+https://www.d20srd.org/srd/wilderness.htm
